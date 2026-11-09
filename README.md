@@ -4,19 +4,7 @@ Siddh Jain (@nls-forev) profile README
 
 <div align="center">
 
-  <a href="https://linkedin.com/in/siddh-jain-aiml" target="_blank">
-    <img src="assets/banner.svg" width="100%" alt="Siddh Jain header banner"/>
-  </a>
-
-  <a href="https://github.com/nls-forev">
-    <img src="assets/typing_headline.svg" width="820" height="54" alt="Terminal-Bench 2 and 3 task author, AI evaluation and red-teaming, RAG systems and LLM fine-tuning"/>
-  </a>
-
-  <p align="center">
-    <strong>Bengaluru, India 🇮🇳</strong> &nbsp;|&nbsp;
-    <strong>AI Trainer @ Handshake AI</strong> &nbsp;|&nbsp;
-    <strong>I build Terminal-Bench tasks, then find where frontier agents break</strong>
-  </p>
+  <img src="assets/hero_cmd.svg" width="100%" alt="Siddh Jain. Terminal-Bench 2 and 3 task author, agent evaluation, red-teaming. 700+ agent trials, 1/5 frontier solve rate, 10 task categories."/>
 
   <p align="center">
     <img src="https://img.shields.io/badge/Terminal--Bench-2%20%26%203%20Task%20Author-00C7B7?style=for-the-badge&logo=gnubash&logoColor=white" alt="Terminal-Bench"/>
