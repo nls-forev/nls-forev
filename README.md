@@ -5,7 +5,7 @@ Siddh Jain (@nls-forev) profile README
 <div align="center">
 
   <a href="https://linkedin.com/in/siddh-jain-aiml" target="_blank">
-    <img src="assets/header.svg" width="100%" alt="Siddh Jain header banner"/>
+    <img src="assets/banner.svg" width="100%" alt="Siddh Jain header banner"/>
   </a>
 
   <a href="https://github.com/nls-forev">
