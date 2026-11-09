@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="560" viewBox="0 0 1000 560">
+<defs><linearGradient id="bar" x1="0" x2="1"><stop offset="0" stop-color="#00e5ff"/><stop offset="1" stop-color="#34d399"/></linearGradient>
+<filter id="gl" x="-5%" y="-5%" width="110%" height="110%"><feGaussianBlur stdDeviation="6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<style>.m{font-family:'JetBrains Mono','Fira Code','SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}.s{font-family:'Segoe UI',Helvetica,Arial,sans-serif}.r{opacity:0;animation:in .45s forwards}
+.dot{animation:pulse 1.6s ease-in-out infinite}.cur{animation:blink 1s steps(1) infinite}
+.fill{animation:grow 3.2s 4.2s cubic-bezier(.4,0,.2,1) forwards;transform:scaleX(0);transform-origin:left;transform-box:fill-box}
+@keyframes in{to{opacity:1}}@keyframes pulse{50%{opacity:.25}}@keyframes blink{50%{opacity:0}}@keyframes grow{to{transform:scaleX(1)}}</style>
+<rect x="8" y="8" width="984" height="544" rx="14" fill="none" stroke="#00e5d4" stroke-width="3" filter="url(#gl)" opacity=".85"/>
+<rect x="10" y="10" width="980" height="540" rx="13" fill="#0d1520" stroke="#00e5d4" stroke-width="2"/>
+<path d="M10,52 V23 a13,13 0 0 1 13,-13 H977 a13,13 0 0 1 13,13 V52 Z" fill="#161b22"/>
+<line x1="10" y1="52" x2="990" y2="52" stroke="#30363d"/>
+<circle cx="36" cy="31" r="7" fill="#ff5f56"/><circle cx="60" cy="31" r="7" fill="#ffbd2e"/><circle cx="84" cy="31" r="7" fill="#27c93f"/>
+<text x="500.0" y="37" text-anchor="middle" class="s" style="font-size:16px;fill:#8b949e">siddh@terminal-bench: ~ (zsh - 80x25)</text>
+<circle cx="890" cy="31" r="5.5" fill="#3fb950" class="dot"/><text x="903" y="36.5" class="m" style="font-size:14px;font-weight:700;fill:#3fb950">ONLINE</text>
+<text x="38" y="92" class="m r" style="font-size:17px;animation-delay:.2s"><tspan fill="#00e5ff" font-weight="700">siddh@handshake-eval:~$</tspan><tspan fill="#e6edf3">  terminal-bench --suite=tb2,tb3 --harness=harbor --mode=live</tspan></text>
+<line x1="38" y1="114" x2="880" y2="114" stroke="#30363d" class="r" style="animation-delay:.5s"/>
+<g class="r" style="animation-delay:0.70s"><text x="38" y="148" class="m" style="font-size:16px;fill:#58a6ff">CORE PROFILE</text><text x="245" y="148" class="m" style="font-size:16px;fill:#6e7681">::</text><text x="275" y="148" class="m" style="font-size:16px;fill:#e6edf3">Siddh Jain (@nls-forev)</text></g>
+<g class="r" style="animation-delay:1.00s"><text x="38" y="181" class="m" style="font-size:16px;fill:#58a6ff">SPECIALIZATION</text><text x="245" y="181" class="m" style="font-size:16px;fill:#6e7681">::</text><text x="275" y="181" class="m" style="font-size:16px;fill:#7ee787">Terminal-Bench 2 &amp; 3 Task Author, Handshake AI</text></g>
+<g class="r" style="animation-delay:1.30s"><text x="38" y="214" class="m" style="font-size:16px;fill:#58a6ff">TASK DOMAINS</text><text x="245" y="214" class="m" style="font-size:16px;fill:#6e7681">::</text><text x="275" y="214" class="m" style="font-size:16px;fill:#e6edf3">ML Infra • Systems Ops • ETL • Build &amp; Release • Security +5</text></g>
+<g class="r" style="animation-delay:1.60s"><text x="38" y="247" class="m" style="font-size:16px;fill:#58a6ff">HARNESS &amp; GRADING</text><text x="245" y="247" class="m" style="font-size:16px;fill:#6e7681">::</text><text x="275" y="247" class="m" style="font-size:16px;fill:#e6edf3">Harbor • Docker Sandboxes • Oracle/No-op Calibration • pytest</text></g>
+<g class="r" style="animation-delay:1.90s"><text x="38" y="280" class="m" style="font-size:16px;fill:#58a6ff">RED-TEAMING</text><text x="245" y="280" class="m" style="font-size:16px;fill:#6e7681">::</text><text x="275" y="280" class="m" style="font-size:16px;fill:#e6edf3">700+ Agent Trials • Transcript Failure Analysis</text></g>
+<g class="r" style="animation-delay:2.20s"><text x="38" y="313" class="m" style="font-size:16px;fill:#58a6ff">PROVEN IMPACT</text><text x="245" y="313" class="m" style="font-size:16px;fill:#6e7681">::</text><text x="275" y="313" class="m" style="font-size:16px;fill:#ff7b72">850+ Harness Runs  |  40K+ Lines of Task Code  |  300+ Commits</text></g>
+<line x1="38" y1="338" x2="880" y2="338" stroke="#30363d" class="r" style="animation-delay:2.6s"/>
+<text x="38" y="376" class="m r" style="font-size:17px;animation-delay:2.9s"><tspan fill="#00e5ff" font-weight="700">siddh@handshake-eval:~$</tspan><tspan fill="#e6edf3">  harbor run -p ./task --agent terminus-2 -k 5</tspan><tspan fill="#00e5ff" class="cur"> █</tspan></text>
+<g class="r" style="animation-delay:3.40s"><circle cx="43" cy="407" r="5" fill="#3fb950"/><text x="56" y="412" class="m" style="font-size:15px;font-weight:700;fill:#3fb950">ORACLE: 1.0</text></g>
+<g class="r" style="animation-delay:3.60s"><circle cx="218.6" cy="407" r="5" fill="#22d3ee"/><text x="231.6" y="412" class="m" style="font-size:15px;font-weight:700;fill:#22d3ee">NO-OP: 0.0</text></g>
+<g class="r" style="animation-delay:3.80s"><circle cx="384.6" cy="407" r="5" fill="#f472b6"/><text x="397.6" y="412" class="m" style="font-size:15px;font-weight:700;fill:#f472b6">FRONTIER: 2/5 SOLVED</text></g>
+<g class="r" style="animation-delay:4.00s"><circle cx="646.6" cy="407" r="5" fill="#e3b341"/><text x="659.6" y="412" class="m" style="font-size:15px;font-weight:700;fill:#e3b341">SANDBOX: ISOLATED</text></g>
+<g class="r" style="animation-delay:4s"><rect x="38" y="438" width="600" height="18" rx="9" fill="#161b22" stroke="#30363d"/><rect x="41" y="441" width="594" height="12" rx="6" fill="url(#bar)" class="fill"/><text x="660" y="453" class="m" style="font-size:15px;font-weight:700;fill:#34d399">20+ TASKS BUILT (TB2 + TB3)</text></g>
+<text x="38" y="488" class="m r" style="font-size:14px;fill:#8b949e;animation-delay:7.4s">✓ exit code 0 • reward 1.0 written to /logs/verifier/reward.txt • deterministic pytest verifier</text>
+</svg>
