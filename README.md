@@ -5,7 +5,7 @@ Siddh Jain (@nls-forev) profile README
 <div align="center">
 
   <a href="https://linkedin.com/in/siddh-jain-aiml" target="_blank">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,23,38,42&height=225&section=header&text=Siddh%20Jain&fontSize=54&fontAlignY=36&desc=Terminal-Bench%202%20%26%203%20Task%20Author%20%7C%20Agent%20Evaluation%20%7C%20Red-Teaming&descFontSize=18&descAlignY=62&fontColor=ffffff&stroke=00f2fe&strokeWidth=2" width="100%" alt="Siddh Jain header banner"/>
+    <img src="assets/header.svg" width="100%" alt="Siddh Jain header banner"/>
   </a>
 
   <a href="https://github.com/nls-forev">
@@ -239,6 +239,6 @@ Open to Terminal-Bench and agent-evaluation projects: task authoring, task revie
   <a href="mailto:rj07605@gmail.com"><img src="https://img.shields.io/badge/Email-rj07605%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,23,38,42&height=120&section=footer" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt=""/>
 
 </div>
