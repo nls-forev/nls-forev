@@ -36,7 +36,7 @@ Siddh Jain (@nls-forev) profile README
   </p>
 
   <p align="center">
-    <img src="assets/terminal_card.svg" width="100%" alt="Siddh Jain terminal card"/>
+    <img src="assets/terminal.svg" width="100%" alt="Siddh Jain terminal card"/>
   </p>
 
   <p align="center">
